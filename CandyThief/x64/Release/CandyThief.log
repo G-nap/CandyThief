@@ -1,0 +1,43 @@
+﻿  Collider.cpp
+  Player.cpp
+  Rabbit.cpp
+  main.cpp
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(75,34): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1577,17): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1585,128): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1585,128): warning C4244:         with
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1585,128): warning C4244:         [
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1585,128): warning C4244:             T=float
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1585,128): warning C4244:         ]
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1586,129): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1586,129): warning C4244:         with
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1586,129): warning C4244:         [
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1586,129): warning C4244:             T=float
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1586,129): warning C4244:         ]
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1587,129): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1587,129): warning C4244:         with
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1587,129): warning C4244:         [
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1587,129): warning C4244:             T=float
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1587,129): warning C4244:         ]
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1588,130): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1588,130): warning C4244:         with
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1588,130): warning C4244:         [
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1588,130): warning C4244:             T=float
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1588,130): warning C4244:         ]
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1589,129): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1589,129): warning C4244:         with
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1589,129): warning C4244:         [
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1589,129): warning C4244:             T=float
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1589,129): warning C4244:         ]
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1590,130): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1590,130): warning C4244:         with
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1590,130): warning C4244:         [
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1590,130): warning C4244:             T=float
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(1590,130): warning C4244:         ]
+C:\Users\choti\Desktop\SFML_GAME\CandyThief\CandyThief\main.cpp(303,12): warning C4101:  'evnt': unreferenced local variable
+  Generating code
+  384 of 621 functions (61.8%) were compiled, the rest were copied from previous compilation.
+    241 functions were new in current compilation
+    67 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CandyThief.vcxproj -> C:\Users\choti\Desktop\SFML_GAME\CandyThief\x64\Release\CandyThief.exe
